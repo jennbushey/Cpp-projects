@@ -1,0 +1,6 @@
+# Ignore executable files
+/out/
+/bin/
+
+# Ignore external libraries
+/lib/
